@@ -1,0 +1,6 @@
+html {
+  font-size: 2px;
+}
+.pager li .active_link {
+  background-color: aqua !important;
+}
